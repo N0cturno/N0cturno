@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N0cturno
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python (for a week)
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me N0cturno@outlook.com
